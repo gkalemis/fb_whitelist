@@ -1,3 +1,9 @@
+# Title: Lightswitch05's facebook-extended.txt
+# Released: 2023-11-04T01:05:24+00:00
+# Count: 29731 domains
+developerdan.com/hosts/
+# Issues: https://github.com/lightswitch05/hosts/issues
+com/hosts/lists/facebook-extended.txt
 # Expires: 2 days
 #
 # Copyright 2023 Daniel White
@@ -14,32 +20,41 @@ org/licenses/LICENSE-2.0
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-shahed.cc
-eta-1.click
-amazonaws.com
-appspot.com
-calibra.com
-cdninstagram.com
-com----m.com
-developerdan.com
-facebook.com
-facebook-hardware.com
-facebookbrand.com
-facebookdesktop.com
-facebookmail.com
-facebookvirtualassistant.com
-fb.com
-fbcdn.com
-fbpigeon.com
-fbsbx.com
-giphy.com
-instagram.com
-messenger.com
-meta.com
-oculus.com
-oculusvr.com
-songsne.com
-whatsapp.com
-facebook.design
-fb.me
-akamaihd.net
+||shahed.cc^
+||eta-1.click^
+||amazonaws.com^
+||appspot.com^
+||calibra.com^
+||cdninstagram.com^
+||com----m.com^
+||developerdan.com^
+||facebook.com^
+||facebook-hardware.com^
+||facebookbrand.com^
+||facebookdesktop.com^
+||facebookmail.com^
+||facebookvirtualassistant.com^
+||fb.com^
+||fbcdn.com^
+||fbpigeon.com^
+||fbsbx.com^
+||giphy.com^
+||instagram.com^
+||messenger.com^
+||meta.com^
+||oculus.com^
+||oculusvr.com^
+||songsne.com^
+||whatsapp.com^
+||facebook.design^
+||fb.me^
+||akamaihd.net^
+||edgekey.net^
+||edgesuite.net^
+||facebook.net^
+||fastly.net^
+||fbcdn.net^
+||tfbnw.net^
+||threads.net^
+||whatsapp.net^
+||fb.watch^
